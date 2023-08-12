@@ -1,6 +1,6 @@
 # Aplikasi Website Pribadi dengan Sistem Database dan PHP
 
-![Website Screenshot](screenshot.png)
+![Screenshot](screenshot.png)
 
 ## Deskripsi
 
@@ -33,6 +33,6 @@ Anda dapat berkontribusi pada proyek ini dengan mengajukan _pull request_ ke rep
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi kami di [alamat email Anda](mailto:uen.csr@gmail.com).
+Jika Anda memiliki pertanyaan atau masukan, jangan ragu untuk menghubungi kami di [alamat email ini](mailto:uen.csr@gmail.com).
 
 Terima kasih telah menggunakan Aplikasi Website Pribadi ini!
