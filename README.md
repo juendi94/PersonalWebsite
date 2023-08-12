@@ -1,6 +1,6 @@
 # Aplikasi Website Pribadi dengan Sistem Database dan PHP
 
-![Screenshot](screenshot.png)
+![Screenshot](Screenshot_20230813_012047.jpg)
 
 ## Deskripsi
 
