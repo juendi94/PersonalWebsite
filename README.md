@@ -8,7 +8,7 @@ Aplikasi ini adalah sebuah website pribadi yang dibangun dengan menggunakan PHP 
 
 ## Cara Install
 
-1. Download source kode dari [sini](Personal website.zip) atau melalui [Google Drive](https://drive.google.com/file/d/1ALYn3mL46moL23gTXMnzVOQ-veO0MarG/view?usp=drivesdk).
+1. Download source kode dari [sini](https://drive.google.com/file/d/1ALYn3mL46moL23gTXMnzVOQ-veO0MarG/view?usp=drivesdk) atau melalui [Google Drive](https://drive.google.com/file/d/1ALYn3mL46moL23gTXMnzVOQ-veO0MarG/view?usp=drivesdk).
 2. Ekstrak file yang diunduh ke direktori MySQL atau hosting Anda.
 3. Dump atau impor basis data dengan nama `DatabaseWebProfile.sql`.
 4. Buka berkas `index.php` untuk melihat tampilan website Anda.
